@@ -136,5 +136,6 @@ lab.local
 │       └── Laptops
 │
 └── _Groups
+---
 This structure provides a foundation for applying targeted Group Policy and delegating administrative responsibilities.
 
