@@ -114,7 +114,7 @@ The Active Directory forest and domain were created as:
 
 ```text
 lab.local
-
+```
 DC01 was promoted to the first domain controller in the environment.
 
 Active Directory Domain Services and DNS were configured during the domain-controller deployment.
@@ -137,6 +137,7 @@ lab.local
 │       └── Laptops
 │
 └── _Groups
+```
 
 This structure provides a foundation for applying targeted Group Policy and delegating administrative responsibilities.
 
