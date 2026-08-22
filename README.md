@@ -114,6 +114,7 @@ The Active Directory forest and domain were created as:
 
 ```text
 lab.local
+
 DC01 was promoted to the first domain controller in the environment.
 
 Active Directory Domain Services and DNS were configured during the domain-controller deployment.
